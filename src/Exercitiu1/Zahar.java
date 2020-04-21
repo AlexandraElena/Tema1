@@ -2,6 +2,7 @@ package Exercitiu1;
 
 public class Zahar extends  Ingrediente {
 
+    //ai nevoie de un singur tip care la runtime poate fi zaharAlb sau ZaharBrun
     private String tip1;
     private String tip2;
 
